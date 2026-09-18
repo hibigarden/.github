@@ -1,5 +1,5 @@
 # hibi
-the cutest text/markdown editor for those who write after.
+the cutest app for everything you write.
 
 **[for the actual hibi repo, please click here](https://github.com/schmayterling/hibi)**
 
