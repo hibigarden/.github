@@ -7,6 +7,6 @@ the cutest app for everything you write.
 
 <center>
   <a>
-  <img width="1112" height="832" alt="CleanShot 2026-09-17 at 1 40 01 PM" src="https://github.com/user-attachments/assets/74192c83-6947-4d10-8e91-720d879bfc4e" />
+   <img width="2462" height="1522" alt="CleanShot 2026-09-21 at 8 40 21 AM@2x" src="https://github.com/user-attachments/assets/2b409a2f-c6a1-4213-a67b-7aa50f8e9df8" />
   </a>
 </center>
